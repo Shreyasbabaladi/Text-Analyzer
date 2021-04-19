@@ -1,0 +1,8 @@
+{
+  "name": "Text-analyzer",
+  "version": "1.0.0",
+  "description": "A fun JavaScript Text Analyzer Web App",
+  "main": "index.html",
+  "author": "Shreyas babaladi",
+  "license": "MIT"
+}
